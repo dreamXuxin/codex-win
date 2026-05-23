@@ -1,0 +1,4 @@
+config/email_config.json
+data/alert_state.json
+__pycache__/
+*.pyc

@@ -1,0 +1,121 @@
+{
+  "holdings": [
+    {
+      "name": "纳斯达克ETF华夏",
+      "code": "513300",
+      "secid": "1.513300",
+      "cost_price": 2.5098,
+      "shares": 1300,
+      "thresholds": [
+        {
+          "drawdown": -3,
+          "price": 2.434,
+          "note": "小回调，可小补"
+        },
+        {
+          "drawdown": -5,
+          "price": 2.384,
+          "note": "观察"
+        },
+        {
+          "drawdown": -7,
+          "price": 2.334,
+          "note": "比较舒服"
+        },
+        {
+          "drawdown": -10,
+          "price": 2.259,
+          "note": "开始明显有吸引力"
+        },
+        {
+          "drawdown": -15,
+          "price": 2.133,
+          "note": "中长期很好"
+        },
+        {
+          "drawdown": -20,
+          "price": 2.008,
+          "note": "非常重视"
+        }
+      ]
+    },
+    {
+      "name": "标普500ETF南方",
+      "code": "513650",
+      "secid": "1.513650",
+      "cost_price": 1.8303,
+      "shares": 600,
+      "thresholds": [
+        {
+          "drawdown": -3,
+          "price": 1.775,
+          "note": "正常回调"
+        },
+        {
+          "drawdown": -5,
+          "price": 1.739,
+          "note": "观察"
+        },
+        {
+          "drawdown": -7,
+          "price": 1.702,
+          "note": "开始舒服"
+        },
+        {
+          "drawdown": -10,
+          "price": 1.647,
+          "note": "中长期不错"
+        },
+        {
+          "drawdown": -15,
+          "price": 1.556,
+          "note": "很有性价比"
+        },
+        {
+          "drawdown": -20,
+          "price": 1.464,
+          "note": "深度机会"
+        }
+      ]
+    },
+    {
+      "name": "黄金ETF华安",
+      "code": "518880",
+      "secid": "1.518880",
+      "cost_price": 9.553,
+      "shares": 200,
+      "thresholds": [
+        {
+          "drawdown": -3,
+          "price": 9.266,
+          "note": "观察"
+        },
+        {
+          "drawdown": -5,
+          "price": 9.075,
+          "note": "观察"
+        },
+        {
+          "drawdown": -7,
+          "price": 8.884,
+          "note": "可以慢慢补"
+        },
+        {
+          "drawdown": -10,
+          "price": 8.598,
+          "note": "比较舒服"
+        },
+        {
+          "drawdown": -15,
+          "price": 8.12,
+          "note": "明显机会"
+        },
+        {
+          "drawdown": -20,
+          "price": 7.642,
+          "note": "深度机会"
+        }
+      ]
+    }
+  ]
+}
